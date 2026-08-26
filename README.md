@@ -1,2 +1,4 @@
 # Visual-Promp-Studio
-Personal prompr portfoloio for my Art class
+**Name** Yair Torres
+**Course** Art Appreciation
+**Description** This is my prompr portfolio for my Art Appreciation Class
